@@ -26,3 +26,5 @@ Turn your ideas into beautiful AI-generated images using natural language.
 5. Run the app:
  -- TERMINAL --
 streamlit run app.py
+
+![My AI Art Companion Demo](AI-Art-Comp-demo.gif)
