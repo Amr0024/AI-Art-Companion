@@ -25,7 +25,6 @@ Turn your ideas into beautiful AI-generated images using natural language.
    - [Get Stability AI key](https://platform.stability.ai/account/keys)
 5. Run the app:
  -- TERMINAL --
-
 streamlit run app.py
 
 #### 🖥️ Demo
